@@ -1,0 +1,21 @@
+.glyphicon-eye-open {
+  color: blue; }
+
+.glyphicon-pencil {
+  color: yellow; }
+
+.glyphicon-trash {
+  color: red; }
+
+h2 {
+  float: left; }
+
+#add-new-member {
+  display: none;
+  padding: 2%; }
+
+.btn-edit {
+  display: none; }
+
+.modal-content {
+  padding: 10%; }
